@@ -1,0 +1,45 @@
+{
+  "name": "rmsproject",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@date-io/date-fns": "^1.0.1",
+    "@material-ui/core": "^4.9.3",
+    "@material-ui/icons": "^3.0.1",
+    "@material-ui/pickers": "^3.1.2",
+    "@synapsestudios/react-drop-n-crop": "^0.2.0",
+    "antd": "^3.16.5",
+    "axios": "^0.18.0",
+    "date-fns": "^2.0.0-alpha.25",
+    "dateformat": "^3.0.3",
+    "material-ui-pickers": "^2.1.1",
+    "react": "^16.8.6",
+    "react-animations": "^1.0.0",
+    "react-dom": "^16.8.6",
+    "react-reveal": "^1.2.2",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "2.1.1",
+    "react-select": "^2.3.0",
+    "react-swipeable-views": "^0.13.1",
+    "react-video-thumbnail": "^0.1.3",
+    "redux": "^4.0.1",
+    "serve": "^10.1.1",
+    "video-react": "^0.13.6"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "homepage": "http://localhost/ahpi/",
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
